@@ -72,3 +72,5 @@ portfolio/
     ├── HKGrotesk-Regular.woff
     └── Jost-Regular.ttf
 ```
+
+You can replicate the ePortfolio repository by `git clone https://github.com/Gmago27/ePortfolio.git`  
